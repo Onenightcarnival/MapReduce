@@ -13,7 +13,7 @@ OS: Windows 10
 Note:
 
 1. if run on Linux/MacOS, modify the file path in udf.py from double slashes to "/" <br>
-2. map_reduce_single.py: master, mapper, reducer are the same process which mentioned as minimum requirement according to Piazza. <br>
+2. map_reduce_single.py: master, mapper, reducer are the same process <br>
 3. map_reduce_multi.py: master, mapper, reducer are three diffent processes. <br>
 4. intermediate files will be saved at map folder. <br>
 5. reduced files will be save at reduce folder. <br>
